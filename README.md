@@ -13,5 +13,5 @@ I also own and run a small charity-forward game development studio called [Give 
 - 💬 Ask me about Unity and C#! I'm always happy to help those new to either one!
 - 🎮 The project I'm most proud of is when my team placed in the top 1.2% of the largest game jam in history with our game [Wi2ards](https://itch.io/jam/gmtk-2021/rate/1083931)! (GMTK Game Jam 2021)
 - 😄 Pronouns: he/him
-- 🎸 Fun fact: I can name any pre-2014 Taylor Swift song from the opening guitar rift.
+- 🎸 Fun fact: I can name any pre-2014 Taylor Swift song from the opening guitar riff.
 
